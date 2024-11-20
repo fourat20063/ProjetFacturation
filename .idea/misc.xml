@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/ms_payement/pom.xml" />
+        <option value="$PROJECT_DIR$/Service-Facturation-master/pom.xml" />
+        <option value="$PROJECT_DIR$/ms_OrganismeType-master/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-facture-master/pom.xml" />
+        <option value="$PROJECT_DIR$/ms_discovery/pom.xml" />
+        <option value="$PROJECT_DIR$/ms_api_gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/Ms_service_Facturation/pom.xml" />
+        <option value="$PROJECT_DIR$/ms_customer/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/Service-Facturation-master/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-facture-master/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_X" default="true" project-jdk-name="openjdk-22" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
